@@ -1,7 +1,7 @@
 # morseCodeTranslator
 a python module that builds a populated binary tree for morse code values, with a method to easily translate a morse code string to its letter.
 
-This weekend I had some amazing whiteboarding practice with [GirlDevelopeIt](https://twitter.com/gdisf) SF (highly recommend!)
+This weekend I had some amazing whiteboarding practice with [GirlDevelopIt](https://twitter.com/gdisf) SF (highly recommend!)
 
 One of the challenges gave the coder a working binary tree full of all the correct morse code letter positions, which we then had to use to solve a problem.  
 
